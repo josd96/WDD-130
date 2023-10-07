@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: palevioletred;
+}
+
+img {
+    width: 200px;
+    height: 250px;
+}
+
+.pte {
+    color: white;
+}
+
+.uno {
+    text-align: left;
+}
+
+.quote_b {
+    font-size: 30px;
+    font-style: Georgia;
+    color: white;
+}
